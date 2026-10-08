@@ -10,7 +10,8 @@
 
 ## <b>👋 Hi there, I'm growthful developer sgaeng!</b>
 
-- Backend Developer @TOKTOKHAN-DEV <em>(2024.01 ~ )</em>
+- Backend & Infrastructure Engineer @MetaBizDesign <em>(2026.05 ~ )</em>
+- Backend Developer @TOKTOKHAN-DEV <em>(2024.01 ~ 2026.04)</em>
 - Technical Content Developer @Elice <em>(2022.01 ~ 2022.07)</em>
 - Hannam Univ. Department of Mathematics Education and Computer Engineering <em>(2017.03 ~ 2022.08)</em>
 
